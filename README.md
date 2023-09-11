@@ -4,7 +4,7 @@
 
 # Result
 
-<img src="https://github.com/dongdongO/SEA-ME_Embedded/blob/main/DES_PiRacer-Assembly/Images/result_image.png" width="50%" height="50%"/>
+<img src="https://github.com/SEA-ME-COSS/DES-PiRacer-Assembly/blob/main/Images/result_image.png" width="50%" height="50%"/>
 
 # Introduction
 
