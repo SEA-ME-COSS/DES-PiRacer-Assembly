@@ -22,7 +22,7 @@ The PiRacer is a compact, single-board computer-based racing car that uses the R
 
 # Project Usage
 
-1. Follow the setting folder. Check raspberrypi GPIO map and OS version
+1. Follow the [setting folder](./setting). Check raspberrypi GPIO map and OS version
 2. Try examples code. You can use by :
     
     ```bash
