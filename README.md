@@ -4,7 +4,7 @@
 
 # Result
 
-<img src="./images/result_image.JPG" width="50%" height="50%"/>
+<img src="./images/result_image.JPG" width="70%" height="70%"/>
 
 # Introduction
 
